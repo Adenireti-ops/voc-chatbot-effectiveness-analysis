@@ -107,17 +107,19 @@ The dataset was designed to simulate a real-world fintech customer support envir
 
 ### Customer Support Performance
 
-<img width="2004" height="1126" alt="image" src="https://github.com/user-attachments/assets/57e1918a-2381-40e7-8680-4848f4da6716" />
+<img width="2004" height="1104" alt="Customer Support Performance" src="https://github.com/user-attachments/assets/c74893f8-ed9d-4723-be9c-899d9550c7b3" />
 
 
 
 ### Chatbot Effectiveness
-<img width="2054" height="1206" alt="image" src="https://github.com/user-attachments/assets/0b503485-2ba2-4930-a8d3-4b3dfd608e80" />
+<img width="2056" height="1124" alt="Chatbot effectiveness" src="https://github.com/user-attachments/assets/8458b5c5-0a78-4cce-9859-0d7bc9c3ee39" />
+
 
 
 ### Cost & Operational Impact
 
-<img width="1950" height="1142" alt="image" src="https://github.com/user-attachments/assets/d81d637e-10ac-450b-ad03-84b555a29777" />
+<img width="1950" height="1196" alt="Cost and Operational Impact" src="https://github.com/user-attachments/assets/32e1cc8b-0373-4a19-874f-2b19fac85c76" />
+
 
 ---
 
